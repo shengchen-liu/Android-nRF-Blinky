@@ -21,7 +21,7 @@
   -->
 
 <resources>
-	<string name="app_name">nRF Blinky</string>
+	<string name="app_name">Segway BLE</string>
 	<string name="feature_name">BLINKY</string>
 
 	<string name="title">@string/app_name</string>
@@ -70,4 +70,7 @@
 	<string name="state_discovering_services">Discovering services…</string>
 	<string name="state_initializing">Initializing…</string>
 	<string name="state_disconnected">Device disconnected.</string>
+
+	<string name="title_battery_state">Battery Percentage</string>
+	<string name="battery_summary">Battery Percentage of the vehicle:</string>
 </resources>

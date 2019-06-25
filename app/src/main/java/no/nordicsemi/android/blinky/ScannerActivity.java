@@ -66,6 +66,8 @@ public class ScannerActivity extends AppCompatActivity implements DevicesAdapter
 	@BindView(R.id.no_location)	View mNoLocationView;
 	@BindView(R.id.bluetooth_off) View mNoBluetoothView;
 
+//	This function is called when the application first starts and you’ll use it to
+//intialize things that need to be initialized on startup and only once. This
 	@Override
 	protected void onCreate(@Nullable final Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);

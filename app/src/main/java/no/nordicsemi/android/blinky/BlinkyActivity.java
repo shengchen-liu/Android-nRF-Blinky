@@ -35,6 +35,7 @@ import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//ButterKnife is a view binding library that uses annotation to generate boilerplate code for us.
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
